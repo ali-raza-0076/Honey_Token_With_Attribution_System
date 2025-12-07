@@ -1,0 +1,75 @@
+# AWS SDK# Core GCP Libraries
+
+boto3==1.34.19google-cloud-storage==2.14.0
+
+botocore==1.34.19google-cloud-bigquery==3.17.0
+
+google-cloud-logging==3.9.0
+
+# Cryptography for key generationgoogle-cloud-functions==1.16.0
+
+cryptography==42.0.0google-cloud-scheduler==2.13.0
+
+pycryptodome==3.19.0google-cloud-secret-manager==2.18.0
+
+
+
+# Fake data generation# Cryptography for key generation
+
+faker==22.0.0cryptography==42.0.0
+
+pycryptodome==3.19.0
+
+# PDF generation
+
+reportlab==4.0.7# Fake data generation
+
+faker==22.0.0
+
+# Web framework for dashboard
+
+flask==3.0.0# Web framework for dashboard
+
+flask-cors==4.0.0flask==3.0.0
+
+dash==2.14.2flask-cors==4.0.0
+
+plotly==5.18.0dash==2.14.2
+
+plotly==5.18.0
+
+# Database drivers (for fake credentials)
+
+psycopg2-binary==2.9.9# Database drivers (for fake credentials)
+
+pymssql==2.2.11psycopg2-binary==2.9.9
+
+pymssql==2.2.11
+
+# Alert notifications
+
+sendgrid==6.11.0# Alert notifications
+
+slack-sdk==3.26.2sendgrid==6.11.0
+
+slack-sdk==3.26.2
+
+# Utilities
+
+python-dotenv==1.0.0# Utilities
+
+pyyaml==6.0.1python-dotenv==1.0.0
+
+requests==2.31.0pyyaml==6.0.1
+
+pytz==2024.1requests==2.31.0
+
+pytz==2024.1
+
+# Testing
+
+pytest==7.4.3# Testing
+
+pytest-cov==4.1.0pytest==7.4.3
+
+pytest-cov==4.1.0
